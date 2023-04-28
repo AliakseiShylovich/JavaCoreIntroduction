@@ -1,1 +1,2 @@
-# lesson-one
+# JavaCoreIntroduction
+Aliaksey Shylovich
