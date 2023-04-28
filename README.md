@@ -1,2 +1,2 @@
-# JavaCoreIntroduction
+# JavaCore
 Aliaksey Shylovich
