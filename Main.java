@@ -79,9 +79,20 @@ public class Main {
 
             h = 0b001 ^ 0b010;
             System.out.println( h );
+            byte k;
+            h = 110;
+            k = 105;
+            System.out.println( Integer. toBinaryString ( h ) );
+            System.out.println( Integer. toBinaryString ( ~h ) );
+            System.out.println( Integer. toBinaryString ( h & k ) );
+            if (x > y) System.out.println( "x больше y " );
+            else System.out.println( "x меньше y" );
+            int m , n ;
+            n = 5;
+            for ( m = 0 ; m <= 10 ; m = m + 1)
+                    System.out.println( m + " * " + n + " = " +  m * n );
 
-            h = 0b001 & 0b010;
-            System.out.println( h );
+
 
     }
 }
